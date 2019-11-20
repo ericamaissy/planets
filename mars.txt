@@ -4,5 +4,6 @@ git commit -m "[write a message]"
 git status
 git log
 git diff
+git diff --staged
+git log --name-only --oneline
 
-addition of text for exercise in committing multiple files
